@@ -17,7 +17,7 @@ In this game, **JavaFX** will be used as our main coding language to develop the
 - You can use any JAVA Complier IDE to run the application.
 - If you don't want the stories to be randomly selected, you can change the number of variable **random_init** as shown below in the file **'Start_Screen.java'**.
 For instance, if you want to play the Forest story, you can change the **random_init** to 3 so that the program will always execute the Forest story when the player clicks the "PLAY GAME" button.
-- There will be one hidden ending in Forest story. Try to figure it out. :smile:
+- There will be a **hidden ending** in Forest story. Try to figure it out. :smile:
 
 ![image](https://user-images.githubusercontent.com/85170160/209551753-4629f98b-b3e4-401f-9f0f-397118e5d83b.png)
 
