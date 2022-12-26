@@ -21,3 +21,6 @@ Note: If you don't want the stories to be randomly selected, you can change the 
 For instance, if you want to play the Forest story, you can change the **random_init** to 3 so that the program will always execute the Forest story when the player clicks the "PLAY GAME" button.
 
 ![image](https://user-images.githubusercontent.com/85170160/209551753-4629f98b-b3e4-401f-9f0f-397118e5d83b.png)
+
+
+Enjoy the game:laughing:
