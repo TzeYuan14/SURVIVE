@@ -14,7 +14,7 @@ When the player clicks the "PLAY GAME" button, the program will start the game b
 In this game, **JavaFX** will be used as our main coding language to develop the GUI, Story, and overall system of the game to be as interesting & efficient as possible.
 
 ## NOTE
-- You can download the file and use **any Java Complier IDE** to run the application.
+- You can download the folder and use **any Java Complier IDE** to run the application.
 - There will be a **hidden ending** in Forest story. Try to figure it out. :smile:
 - If you don't want the stories to be randomly selected, you can change the number of variable **random_init** as shown below in the file **'Start_Screen.java'**.
 For instance, if you want to play the Forest story, you can change the **random_init** to 3 so that the program will always execute the Forest story when the player clicks the "PLAY GAME" button.
